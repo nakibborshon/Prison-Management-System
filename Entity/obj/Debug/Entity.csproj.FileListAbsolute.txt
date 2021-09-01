@@ -1,0 +1,14 @@
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\I\SampleManagementSystem\Entity\bin\Debug\Entity.dll
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\I\SampleManagementSystem\Entity\bin\Debug\Entity.pdb
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\I\SampleManagementSystem\Entity\obj\Debug\Entity.dll
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\I\SampleManagementSystem\Entity\obj\Debug\Entity.pdb
+E:\6 th semester\C#\Codes\SampleManagementSystem\Entity\bin\Debug\Entity.dll
+E:\6 th semester\C#\Codes\SampleManagementSystem\Entity\bin\Debug\Entity.pdb
+E:\6 th semester\C#\Codes\SampleManagementSystem\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+E:\6 th semester\C#\Codes\SampleManagementSystem\Entity\obj\Debug\Entity.dll
+E:\6 th semester\C#\Codes\SampleManagementSystem\Entity\obj\Debug\Entity.pdb
+C:\Users\Borshon\Desktop\SampleManagementSystem\Entity\bin\Debug\Entity.dll
+C:\Users\Borshon\Desktop\SampleManagementSystem\Entity\bin\Debug\Entity.pdb
+C:\Users\Borshon\Desktop\SampleManagementSystem\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\Users\Borshon\Desktop\SampleManagementSystem\Entity\obj\Debug\Entity.dll
+C:\Users\Borshon\Desktop\SampleManagementSystem\Entity\obj\Debug\Entity.pdb

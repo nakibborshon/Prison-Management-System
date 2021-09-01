@@ -1,0 +1,27 @@
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\I\SampleManagementSystem\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\I\SampleManagementSystem\Repository\bin\Debug\Repository.dll
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\I\SampleManagementSystem\Repository\bin\Debug\Repository.pdb
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\I\SampleManagementSystem\Repository\bin\Debug\Entity.dll
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\I\SampleManagementSystem\Repository\bin\Debug\Interfaces.dll
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\I\SampleManagementSystem\Repository\bin\Debug\Entity.pdb
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\I\SampleManagementSystem\Repository\bin\Debug\Interfaces.pdb
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\I\SampleManagementSystem\Repository\obj\Debug\Repository.dll
+D:\AIUB Teaching\12. Fall 19\OOP2 Codes\I\SampleManagementSystem\Repository\obj\Debug\Repository.pdb
+E:\6 th semester\C#\Codes\SampleManagementSystem\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+E:\6 th semester\C#\Codes\SampleManagementSystem\Repository\obj\Debug\Repository.dll
+E:\6 th semester\C#\Codes\SampleManagementSystem\Repository\obj\Debug\Repository.pdb
+E:\6 th semester\C#\Codes\SampleManagementSystem\Repository\bin\Debug\Repository.dll
+E:\6 th semester\C#\Codes\SampleManagementSystem\Repository\bin\Debug\Repository.pdb
+E:\6 th semester\C#\Codes\SampleManagementSystem\Repository\bin\Debug\Entity.dll
+E:\6 th semester\C#\Codes\SampleManagementSystem\Repository\bin\Debug\Interfaces.dll
+E:\6 th semester\C#\Codes\SampleManagementSystem\Repository\bin\Debug\Entity.pdb
+E:\6 th semester\C#\Codes\SampleManagementSystem\Repository\bin\Debug\Interfaces.pdb
+C:\Users\Borshon\Desktop\SampleManagementSystem\Repository\bin\Debug\Repository.dll
+C:\Users\Borshon\Desktop\SampleManagementSystem\Repository\bin\Debug\Repository.pdb
+C:\Users\Borshon\Desktop\SampleManagementSystem\Repository\bin\Debug\Entity.dll
+C:\Users\Borshon\Desktop\SampleManagementSystem\Repository\bin\Debug\Interfaces.dll
+C:\Users\Borshon\Desktop\SampleManagementSystem\Repository\bin\Debug\Entity.pdb
+C:\Users\Borshon\Desktop\SampleManagementSystem\Repository\bin\Debug\Interfaces.pdb
+C:\Users\Borshon\Desktop\SampleManagementSystem\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\Borshon\Desktop\SampleManagementSystem\Repository\obj\Debug\Repository.dll
+C:\Users\Borshon\Desktop\SampleManagementSystem\Repository\obj\Debug\Repository.pdb
